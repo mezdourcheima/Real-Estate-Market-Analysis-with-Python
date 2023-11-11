@@ -20,7 +20,7 @@ You’ll need to have the following Python libraries installed:
 * datetime
 * seaborn (optional)
 
-##### Project content
+#### Project content
 
   * 2 Project files :
     *  customers.csv
